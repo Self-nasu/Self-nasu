@@ -24,6 +24,3 @@ I'm passionate about designing and building websites that look great and work pe
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasu1708/)
 
 [![instagram](https://img.shields.io/badge/instagram-962fbf?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/self.nasu/)
-
-
-## 🛠 Skills
