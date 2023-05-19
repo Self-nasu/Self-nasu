@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Namanqw1/Namanqw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://media.discordapp.net/attachments/1106481810273206293/1109007978146828368/GitHUb_nasu.png?width=1025&height=390)
 
-Here are some ideas to get you started:
+# Hi, I'm Nasu Aka Jain Naman! 👋
+## Font-End Web Developer / Web Designer.
+Code👨‍💻, coffee☕, and creativity 🎨
+## 🚀 About Me
+I'm passionate about designing and building websites that look great and work perfectly on any device.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Just feel free to conect with me
+
+👩‍💻 I'm currently working on... WorkBlog Website
+
+🧠 I'm currently learning Back-End programing
+
+🧠 If you can dream it .... you can do it....
+
+📫 Reach me at +91 7877452256
+## 🔗 Contact Me At
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://namanqw1.github.io/protfolio.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasu1708/)
+
+[![instagram](https://img.shields.io/badge/instagram-962fbf?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/self.nasu/)
+
+
+## 🛠 Skills
