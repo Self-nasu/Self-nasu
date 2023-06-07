@@ -11,9 +11,9 @@ I'm passionate about designing and building websites that look great and work pe
 
 ## Just feel free to conect with me
 
-👩‍💻 I'm currently working on... WorkBlog Website
+👩‍💻 I'm currently working on... App Store Website.
 
-🧠 I'm currently learning Back-End programing
+🧠 I'm currently learning Back-End programing.
 
 🧠 If you can dream it .... you can do it....
 
