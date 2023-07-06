@@ -11,9 +11,9 @@ I'm passionate about designing and building websites that look great and work pe
 
 ## Just feel free to conect with me
 
-👩‍💻 I'm currently working on... App Store Website and College Website.
+👩‍💻 I'm currently working as Web-developer intern at Code Clause.
 
-🧠 I'm currently learning Back-End programing.
+🧠 I'm currently learning Python and Web-development.
 
 🧠 If you can dream it .... you can do it....
 
