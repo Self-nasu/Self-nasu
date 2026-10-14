@@ -21,20 +21,15 @@
 * 📝 Published author with two abstracts in "The Essence (ISSN 2249-0132)" presented at the International Research Convention 2024: "Deficiency of AI in Mathematics" and "Decoding School Dropout Rate Factors Using Machine Learning Models."
 
 
-***
 **⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Self-nasu&show_icons=true&theme=dark&locale=en&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Self-nasu&theme=dark&hide_border=true&layout=compact"></td>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Self-nasu&theme=github-compact&hide_border=true" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Self-nasu&theme=tokyonight" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=Self-nasu&theme=tokyonight&hide_border=true" /></td>
-    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,linux,git,cpp&theme=dark" /></td>
-           
-  </tr>
-</table>
+<div>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Self-nasu&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com/?user=Self-nasu&theme=tokyonight&hide_border=true" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,linux,git,cpp&theme=dark" />
 
+
+</div>
+   
 <!-- ***
 **♨️ &nbsp;DSA Analytics**
 
